@@ -60,7 +60,6 @@ XGBoost · BioPython · pandas / NumPy · matplotlib / seaborn
 - `enzyme_classification.ipynb` — full pipeline: data loading, sequence cleaning, ESM-2
   embedding extraction, model training, ensembling, evaluation, confidence calibration
 - `report.pdf` — full write-up with methodology, results tables, and discussion
-- `predictions.txt` — example output format on blind test sequences
 
 ## Limitations & Future Work
 
